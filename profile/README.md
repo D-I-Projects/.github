@@ -8,10 +8,6 @@
 
 </div>
 
-## Stats 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=D-I-Projects&theme=dark)](https://github.com/D-I-Projects)  [![wfxey GitHub stats](https://github-readme-stats.vercel.app/api?username=D-I-Projects&show_icons=true&layout=compact&theme=dark)](https://github.com/D-I-Projects)
-
 ## Discord
 
 [![Discord Banner](https://discord.com/api/guilds/1230908371490570314/widget.png?style=banner2)](https://discord.gg/rfrMnA4XCc)
