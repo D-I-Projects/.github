@@ -10,7 +10,6 @@
 
 ## Stats 
 
-[![wfxey github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=D-I-Projects&theme=tokyo-night&height=300&area=true)](https://github.com/D-I-Projects)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wfxey&theme=dark)](https://github.com/D-I-Projects)  [![wfxey GitHub stats](https://github-readme-stats.vercel.app/api?username=wfxey&show_icons=true&layout=compact&theme=dark)](https://github.com/D-I-Projects)
 
 ## Discord
