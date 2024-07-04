@@ -7,7 +7,3 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white) [![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 
 </div>
-
-## Discord
-
-[![Discord Banner](https://discord.com/api/guilds/1230908371490570314/widget.png?style=banner2)](https://discord.gg/rfrMnA4XCc)
