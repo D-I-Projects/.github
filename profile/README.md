@@ -7,6 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white) [![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
 # People
+![158351052](https://github.com/D-I-Projects/.github/assets/158351052/bd55fe89-9538-48e1-a74f-c39a3022adaa)
 
 
 </div>
