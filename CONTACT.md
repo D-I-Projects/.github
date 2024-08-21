@@ -2,4 +2,4 @@
 
 Discord = @wfxey, @ivole32
 
-E-Mail = projectsdi02@gmail.com
+E-Mail = di.projects.help@gmail.com
