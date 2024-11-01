@@ -1,4 +1,5 @@
 <div align="center">
+
 # D&I Projects 
 
 [![Link to CONTACT.md](https://img.shields.io/badge/Link%20to%20CONTACT.md-8CA1AF?logo=readthedocs&logoColor=fff)](https://github.com/D-I-Projects/.github/blob/main/CONTACT.md) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/rfrMnA4XCc) <a href="https://github.com/D-I-Projects"> <img src="https://komarev.com/ghpvc/?username=D-I-Projects&color=red" alt="GitHub Profile"> </a>
