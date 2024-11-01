@@ -1,6 +1,6 @@
 <div align="center">
 
-![Glitch RGB Image](https://cdn.discordapp.com/attachments/1230939345553199105/1277325868355682466/-glitch-rgb.png?ex=672667ea&is=6725166a&hm=10fa67b165f6394b8f91dd7aa1b3063162ae9bea6d0db5429b2a4bb5014e95cb)
+![Glitch RGB Image](https://cdn.discordapp.com/attachments/1302006146839744622/1302006178447884479/image.png?ex=67268b3f&is=672539bf&hm=8c26164d0becf0863dbc8fba0211f602d43cbe92bd57933a1dd2926986ad82d3&)
 
 [![Link to CONTACT.md](https://img.shields.io/badge/Link%20to%20CONTACT.md-8CA1AF?logo=readthedocs&logoColor=fff)](https://github.com/D-I-Projects/.github/blob/main/CONTACT.md) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/rfrMnA4XCc) <a href="https://github.com/D-I-Projects"> <img src="https://komarev.com/ghpvc/?username=D-I-Projects&color=red" alt="GitHub Profile"> </a>
 
