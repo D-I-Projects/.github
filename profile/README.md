@@ -6,5 +6,4 @@
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white) [![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
-![Glitch RGB Image](https://cdn.discordapp.com/attachments/1302006146839744622/1302006178447884479/image.png?ex=67268b3f&is=672539bf&hm=8c26164d0becf0863dbc8fba0211f602d43cbe92bd57933a1dd2926986ad82d3&)
 </div>
